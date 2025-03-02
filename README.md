@@ -1,2 +1,2 @@
 # spring-API
-I used CRUD operations for writing and testing it.
+I used CRUD operations for writing and testing API.
